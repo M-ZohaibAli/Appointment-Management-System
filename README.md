@@ -1,4 +1,4 @@
-# AppointPulse — Multi-Tenant SaaS Booking & Appointment Platform
+# Appointment-Management-System — Multi-Tenant SaaS Booking & Appointment Platform
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.2-black?logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19.2-61DAFB?logo=react)](https://react.dev/)
@@ -13,7 +13,7 @@
 
 ## Overview
 
-**AppointPulse** is a white-label, multi-tenant appointment scheduling platform designed to serve diverse service businesses — medical clinics, luxury salons, fitness coaches, and executive consultants — from a single unified dashboard. The platform features a **smart time slot engine** that computes availability by evaluating service duration, buffer times, staff breaks, existing bookings, and dynamic timezone rules in real time.
+**Appointment-Management-System** is a white-label, multi-tenant appointment scheduling platform designed to serve diverse service businesses — medical clinics, luxury salons, fitness coaches, and executive consultants — from a single unified dashboard. The platform features a **smart time slot engine** that computes availability by evaluating service duration, buffer times, staff breaks, existing bookings, and dynamic timezone rules in real time.
 
 Built with **Next.js 16 (App Router)**, **React 19**, **TypeScript**, **Tailwind CSS 4**, and **Drizzle ORM** with **PostgreSQL**, with an instant demo mode powered by localStorage for zero-configuration evaluation.
 
@@ -152,12 +152,6 @@ Toggle between demo and PostgreSQL mode using the pill button in the navbar.
 
 ---
 
-## Screenshots
-
-> *(Add screenshots here — landing page hero, booking flow, admin analytics, staff dashboard, QR kiosk)*
-
----
-
 ## License
 
 This project is for portfolio demonstration purposes.
@@ -168,6 +162,6 @@ This project is for portfolio demonstration purposes.
 
 Built by **Muhammad Zohaib Ali**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/m-zohaib-ali) | [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel)](https://your-portfolio-link) | [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/m-zohaibali/)
 
 > I'm actively looking for opportunities as a **Full-Stack Engineer** or **Frontend Engineer**. If you're hiring, I'd love to hear from you.
